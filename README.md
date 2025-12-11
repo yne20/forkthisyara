@@ -9,4 +9,6 @@ yara editing here try
 
 trying two at once woah
 
-why won't think workk
+why won't think workkk
+
+sum(4+2)
